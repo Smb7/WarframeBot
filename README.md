@@ -1,8 +1,9 @@
 <div id="header" align="center">
   <h1>WarframeBot</h1>
 </div>
-
-![image](https://github.com/Smb7/WarframeBot/assets/104172841/bf7d1591-e7bd-4640-961b-33f91eabda33)
+<div>
+  <img ![image](https://github.com/Smb7/WarframeBot/assets/104172841/bf7d1591-e7bd-4640-961b-33f91eabda33) width="100" Height="100"/>
+</div>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
