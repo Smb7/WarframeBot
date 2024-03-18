@@ -8,19 +8,34 @@
 
 <div align="center">
   <h1>Overview</h1>
+  <p>Warframe Bot is a discord bot that allows any memebers to use / commands to interact with a bot that can generate website URL's for content tied to warframe. The goal is to create a central space where people can easily pull up guides, builds, how to's, or anything else that is warframe relatated. By using the discord API, and discords built in python library I am able to create a bot that can join guilds (servers) and be able to read and respond to texts. This project is a highlight to my passion for gaming while trying to create a bot for automation. </p>
 </div>
 
 <div align="center">
-  <p></p>
+  <h1>Before We Start</h1>
+</div>
+  <p> 
+    Prerequisites before Setup
+    <ol> 1. Create a <a href="https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started"> discord </a> account </ol>
+    <ol> 2. Download the discord <a href="https://discord.com/download"> app </a> (Not required but strongly recommended)</ol>
+    <ol> 3. Create a <a href="https://discord.com/download"> server </a> or be a member with <a href="https://www.businessinsider.com/guides/tech/how-to-add-a-bot-to-discord#:~:text=You%20must%20be%20an%20administrator,1."> permissions </a> to make changes</ol>
+  </p>
+
+<div align="center">
+  <h1>How to Setup</h1>
+</div>
+
+<div>
+<p>
+<ol> 1. Invite <a href="https://discord.com/oauth2/authorize?client_id=1214415155870302240"> WarframeBot </a> to server </ol>
+<ol> 2. Select drop down > add to server</ol>
+<ol> 3. Select confirm and you have added it to your sever </ol>
+<ol> <a href="https://beebom.com/how-add-bots-discord-server/"> Need help? </a> </ol>
+</p>
 </div>
 
 <div align="center">
-  <h1>How to Install</h1>
-  <p></p>
-</div>
-
-<div align="center">
-  <h1>How To Use</h1>
+  <h1>How to Use</h1>
   <p></p>
 </div>
 
