@@ -11,5 +11,20 @@
 </div>
 
 <div align="center">
-  <p>WarframeBot is an interactive discord bot that is intergrated into servers for members to use with / command. WarframeBot allows for you to easy search builds for your favorite weapon or warframe, the ability to look for relics and best practices to farm, and much more.</p>
+  <p></p>
+</div>
+
+<div align="center">
+  <h1>How to Install</h1>
+  <p></p>
+</div>
+
+<div align="center">
+  <h1>How To Use</h1>
+  <p></p>
+</div>
+
+<div align="center">
+  <h1>License</h1>
+  <p></p>
 </div>
