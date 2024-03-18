@@ -2,7 +2,7 @@
   <h1>WarframeBot</h1>
 </div>
 <div>
-  <img ![image](https://github.com/Smb7/WarframeBot/assets/104172841/bf7d1591-e7bd-4640-961b-33f91eabda33) />
+  <img src="![image](https://github.com/Smb7/WarframeBot/assets/104172841/bf7d1591-e7bd-4640-961b-33f91eabda33)" width="100" height="100" />
 </div>
 
 <div id="header" align="center">
