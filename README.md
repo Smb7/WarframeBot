@@ -1,9 +1,6 @@
 <div id="header" align="center">
   <h1>WarframeBot</h1>
 </div>
-<p>
-  https://cdn.dribbble.com/users/5242374/screenshots/16641455/media/0a74ea6b1d505b316ced8be139175fc3.gif
-</p>
 
 https://cdn.dribbble.com/users/5242374/screenshots/16641455/media/0a74ea6b1d505b316ced8be139175fc3.gif
 
