@@ -25,20 +25,18 @@
   <h1>How to Setup</h1>
 </div>
 
-<div>
-<p>
-<ol> 1. Invite <a href="https://discord.com/oauth2/authorize?client_id=1214415155870302240"> WarframeBot </a> to server </ol>
-<ol> 2. Select drop down > add to server</ol>
-<ol> 3. Select confirm and you have added it to your sever </ol>
-<ol> <a href="https://beebom.com/how-add-bots-discord-server/"> Need help? </a> </ol>
-</p>
-</div>
+1. Invite <a href="https://discord.com/oauth2/authorize?client_id=1214415155870302240"> WarframeBot </a> to server 
+2. Select drop down > add to server
+3. Select confirm and you have added it to your sever
+<a href="https://beebom.com/how-add-bots-discord-server/"> Need help? </a>
+
 
 <div align="center">
   <h1>How to Use</h1>
   <p></p>
 </div>
-
+1. Once the bot is in your discord server use "/" followed by a warframe term
+2. Examples of possible uses "/warframeGara"
 <div align="center">
   <h1>Still to be Done</h1>
   <p></p>
