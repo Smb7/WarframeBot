@@ -30,18 +30,6 @@
 3. Select confirm and you have added it to your sever
 <a href="https://beebom.com/how-add-bots-discord-server/"> Need help? </a>
 
-
-<div align="center">
-  <h1>How to Use</h1>
-  <p></p>
-</div>
-1. Once the bot is in your discord server use "/" followed by a warframe term
-2. Examples of possible uses "/warframeGara"
-<div align="center">
-  <h1>Still to be Done</h1>
-  <p></p>
-</div>
-
 <div align="center">
   <h1>License</h1>
   <p></p>
